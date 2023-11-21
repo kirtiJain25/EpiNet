@@ -15,3 +15,7 @@ Epidemic Variables:
 1. Peak Day: the day when the cases are maximum 
 2. Peak Cases: maximum number of infected cases on a given day
 3. Span: time period between the first and last infected cases
+
+
+Cite this paper
+Jain, K., Bhatnagar, V., Kaur, S. (2023). Regression Chain Model for Predicting Epidemic Variables. In: Thomson, R., Al-khateeb, S., Burger, A., Park, P., A. Pyke, A. (eds) Social, Cultural, and Behavioral Modeling. SBP-BRiMS 2023. Lecture Notes in Computer Science, vol 14161. Springer, Cham. https://doi.org/10.1007/978-3-031-43129-6_28
